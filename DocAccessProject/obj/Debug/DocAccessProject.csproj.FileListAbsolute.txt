@@ -1,0 +1,6 @@
+E:\study\c#\DocAccessProject\DocAccessProject\bin\Debug\DocAccessProject.exe.config
+E:\study\c#\DocAccessProject\DocAccessProject\obj\Debug\DocAccessProject.csprojResolveAssemblyReference.cache
+E:\study\c#\DocAccessProject\DocAccessProject\bin\Debug\DocAccessProject.exe
+E:\study\c#\DocAccessProject\DocAccessProject\bin\Debug\DocAccessProject.pdb
+E:\study\c#\DocAccessProject\DocAccessProject\obj\Debug\DocAccessProject.exe
+E:\study\c#\DocAccessProject\DocAccessProject\obj\Debug\DocAccessProject.pdb
